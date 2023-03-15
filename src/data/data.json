@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Work",
+    "card" : "col-12  col-lg-4 card-container work",
+    "timeframes": {
+      "daily": {
+        "current": 5,
+        "previous": 7,
+        "date" : "Last Day"
+
+      },
+      "weekly": {
+        "current": 32,
+        "previous": 36,
+        "date" : "Last Week"
+      },
+      "monthly": {
+        "current": 103,
+        "previous": 128,
+        "date" : "Last Month"
+      }
+    }
+    
+  },
+  {
+    "title": "Play",
+    "card" : "col-12  col-lg-4 card-container play",
+    "timeframes": {
+      "daily": {
+        "current": 1,
+        "previous": 2,
+        "date" : "Last Day "
+      },
+      "weekly": {
+        "current": 10,
+        "previous": 8,
+        "date" : "Last Week"
+      },
+      "monthly": {
+        "current": 23,
+        "previous": 29,
+        "date" : "Last Month"
+      }
+    }
+  },
+  {
+    "title": "Study",
+    "card" : "col-12  col-lg-4 card-container study",
+    "timeframes": {
+      "daily": {
+        "current": 0,
+        "previous": 1,
+        "date" : "Last Day "
+      },
+      "weekly": {
+        "current": 4,
+        "previous": 7,
+        "date" : "Last Week "
+      },
+      "monthly": {
+        "current": 13,
+        "previous": 19,
+        "date" : "Last Month"
+      }
+    }
+  },
+  {
+    "title": "Exercise",
+    "card" : "col-12  col-lg-4 card-container exercise",
+    "timeframes": {
+      "daily": {
+        "current": 1,
+        "previous": 1,
+        "date" : "Last Day "
+      },
+      "weekly": {
+        "current": 4,
+        "previous": 5,
+        "date" : "Last Week "
+      },
+      "monthly": {
+        "current": 11,
+        "previous": 18,
+        "date" : "Last Month"
+      }
+    }
+  },
+  {
+    "title": "Social",
+    "card" : "col-12  col-lg-4 card-container social",
+    "timeframes": {
+      "daily": {
+        "current": 1,
+        "previous": 3,
+        "date" : "Last Day "
+      },
+      "weekly": {
+        "current": 5,
+        "previous": 10,
+        "date" : "Last Week "
+      },
+      "monthly": {
+        "current": 21,
+        "previous": 23,
+        "date" : "Last Month"
+      }
+    }
+  },
+  {
+    "title": "Self Care",
+    "card" : "col-12  col-lg-4 card-container selfCare",
+    "timeframes": {
+      "daily": {
+        "current": 0,
+        "previous": 1,
+        "date" : "Last Day "
+      },
+      "weekly": {
+        "current": 2,
+        "previous": 2,
+        "date" : "Last Week "
+      },
+      "monthly": {
+        "current": 7,
+        "previous": 11,
+        "date" : "Last Month"
+      }
+    }
+  }
+]
